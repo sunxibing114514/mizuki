@@ -10,6 +10,7 @@ licenseName: "Unlicensed"
 ---
 
 # 所用模拟器在appstore中大多均需付费，可以付费下载、自签或巨魔、共享账号（淘宝等网站购买）
+## 本教程的所有ipa文件[下载链接](https://www.123684.com/s/FrLAjv-mP2X)
 
 ---
 
