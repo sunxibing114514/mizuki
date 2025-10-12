@@ -98,7 +98,7 @@ licenseName: "Unlicensed"
 ---
 # ren'py引擎
 ## 该引擎模拟器多，如RenpyReader、RenpyViewer、Spark、Ren'pyLinter、Ren'py(7)Pocket等
-  - 这里仅介绍我用过的
+  - 我只使用Spark与linter
 ## renpy的游戏文件中包含renpy与game文件夹，在资源网站中带有“Ren'Py”“renpy”标签的资源大部分都可以运行
 ---
 ### 工具1: spark
@@ -112,3 +112,11 @@ licenseName: "Unlicensed"
 2. 点击“启动游戏”游玩
 ---
 ### 其实各种工具导入差不多，不一一讲解
+---
+# RPG游戏
+1. ONSplayer可运行RPGMV游戏
+2. H5的rpg游戏含html文件，你可以在支持html的软件内直接打开
+---
+### 工具2: RPGviewer
+### 可以运行RPGMV、RPGMZ/H5、FLASH的游戏
+- 可在应用内点击添加可直接导入游戏文件夹，还可输入url下载swf格式的flash游戏并运行
