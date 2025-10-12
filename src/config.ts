@@ -251,7 +251,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "超炳",
-	bio: "我，怀着这份祈愿，纵情歌唱\n当年花期繁茂之时，如血樱落，美丽如斯。生应如樱花般灿烂，死亡也应如樱花凄美，如樱短暂易逝，也如樱绚丽绝伦，而不负吾身祈愿，此间性命，亦不足惜。",
+	bio: "我，怀着这份祈愿，纵情歌唱",
 	links: [
 		{
 			name: "Bilibli",
@@ -318,7 +318,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 };
 
 export const footerConfig: FooterConfig = {
-	enable: false, // 是否启用Footer HTML注入功能
+	enable: true, // 是否启用Footer HTML注入功能
 };
 
 // 直接编辑 FooterConfig.html 文件来添加备案号等自定义内容
