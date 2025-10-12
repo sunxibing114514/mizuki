@@ -14,7 +14,7 @@ licenseName: "Unlicensed"
 ---
 
 # krkr引擎
-### 工具：xp3player
+### 工具1：xp3player
 ### 使用方法：
 1. 解压你下载的资源
 2. 确认你下载的资源内容，如果您在那里看到以 xp3 为扩展名的文件，例如 data.xp3，则通常是 Kirikiri
@@ -24,6 +24,16 @@ licenseName: "Unlicensed"
 6. 点击data.xp3或启动游戏.xp3等启动游戏
 ### [补丁网站](https://zeas2.github.io/Kirikiroid2_patch/patch/)
 - 复制进文件夹即可
+
+### 工具2: xp3player
+### 使用方法：
+1. 移动文件夹后点击data.xp3或启动游戏.xp3等启动游戏
+### 注意：
+- 该软件目前有ver1.0测试版与ver1.1、ver1.2正式版。
+  - 三个版本的游戏功能与列表功能均正常。
+  - ver1.0导入功能正常。ver1.1设置、新建文件夹、导入闪退。ver1.2所有功能正常
+- 进入软件后显示的文件并非储存在该软件的数据中。我这里该模拟器的数据目录为/var/mobile/Containers/Data/Application/8A223672-D5E2-4184-81F1-27FD32D1BEB1，但其显示的数据目录却在/private/var/mobile/Containers/Data/PluginKitPlugin/85C784B7-CE23-4CEA-8DFC-F76A16953DF9/Documents
+
 
 ---
 
@@ -82,9 +92,9 @@ licenseName: "Unlicensed"
 5. 把下载的补丁内容全部放入游戏文件夹
 
 --------------------
-### 工具2:yurigame
+### 工具2: yurigame
 
 
 ---
 # ren'py引擎
-### 工具1:spark
+### 工具1: spark
