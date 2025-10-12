@@ -251,7 +251,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "超炳",
-	bio: "我，怀着这份祈愿，纵情歌唱",
+	bio: "我，怀着这份祈愿，纵情歌唱\n当年花期繁茂之时，如血樱落，美丽如斯。生应如樱花般灿烂，死亡也应如樱花凄美，如樱短暂易逝，也如樱绚丽绝伦，而不负吾身祈愿，此间性命，亦不足惜。",
 	links: [
 		{
 			name: "Bilibli",
