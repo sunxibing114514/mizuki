@@ -74,5 +74,11 @@ licenseName: "Unlicensed"
 1. artroid+[作者](https://myskrpatch.tistory.com/)
 2. artroid+[可能会用到的补丁](https://myskrpatch.tistory.com/)，复制进文件夹即可
 3. 支持artroid的[游戏列表](https://vndb.org/r?f=01fwArtemis_0Engine-&o=d&p=1&s=released)
+### 补丁使用方式
+1. 打开上方网站
+2. 从右边的菜单中选择标题
+3. 选择标题后后会出一览页，直接打开文章
+4. 文章的下方有下载链接，从那里下载
+5. 把下载的补丁内容全部放入游戏文件夹
 
 ---
