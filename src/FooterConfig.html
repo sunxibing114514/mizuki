@@ -1,1 +1,39 @@
-<p>当年花期繁茂之时，如血樱落，美丽如斯。生应如樱花般灿烂，死亡也应如樱花凄美，如樱短暂易逝，也如樱绚丽绝伦，而不负吾身祈愿，此间性命，亦不足惜</p>
+    <footer>
+        <p>当年花期繁茂之时，如血樱落，美丽如斯。生应如樱花般灿烂，死亡也应如樱花凄美，如樱短暂易逝，也如樱绚丽绝伦，而不负吾身祈愿，此间性命，亦不足惜</p>
+        <p id="site-runtime">本站已安稳运行: 正在计算中...</p>
+    </footer>
+
+    <script>
+        // 定义一个函数来计算和更新运行时间
+        function updateRuntime() {
+            // !!! 日期修改为您网站的 !!!
+            // 格式：'YYYY/MM/DD HH:MM:SS'
+            const websiteStartDate = '2025/10/09 19:00:00';
+
+            // 获取当前时间
+            const now = new Date();
+            // 获取起始时间
+            const start = new Date(websiteStartDate);
+
+            // 计算两个时间之间的总秒数
+            const diffInSeconds = Math.floor((now - start) / 1000);
+
+            // 将总秒数转换为天、小时、分钟和秒
+            const days = Math.floor(diffInSeconds / 86400); // 1天 = 24*60*60 = 86400秒
+            const hours = Math.floor((diffInSeconds % 86400) / 3600); // 1小时 = 3600秒
+            const minutes = Math.floor((diffInSeconds % 3600) / 60);
+            const seconds = diffInSeconds % 60;
+
+            // 格式化输出字符串
+            const runtimeString = `本站已安稳运行: ${days} 天 ${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
+
+            // 将计算好的字符串更新到 id 为 'site-runtime' 的元素中
+            document.getElementById('site-runtime').textContent = runtimeString;
+        }
+
+        // 首次加载页面时立即运行一次
+        updateRuntime();
+
+        // 然后设置一个定时器，每秒钟（1000毫秒）都调用一次 updateRuntime 函数
+        setInterval(updateRuntime, 1000);
+    </script>
