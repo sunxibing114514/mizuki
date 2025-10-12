@@ -93,8 +93,22 @@ licenseName: "Unlicensed"
 
 --------------------
 ### 工具2: yurigame
-
+### 参照krkr引擎工具2
 
 ---
 # ren'py引擎
+## 该引擎模拟器多，如RenpyReader、RenpyViewer、Spark、Ren'pyLinter、Ren'py(7)Pocket等
+  - 这里仅介绍我用过的
+## renpy的游戏文件中包含renpy与game文件夹，在资源网站中带有“Ren'Py”“renpy”标签的资源大部分都可以运行
+---
 ### 工具1: spark
+### 导入方式：
+1. （电脑端）	将解压完成的游戏文件夹拖入Spark的“/Documents/games”目录
+2. （手机端） 在系统自带“文件”软件中，长按游戏文件夹，点击“移动”，移动到我的iphone/Spark
+3. （手机端） 在Spark主界面中点击导入游戏可直接导入apk、zip、7z、rar格式的文件（前提为它们为renpy引擎）
+### 游玩
+1. 导入游戏后，点击游戏进入游戏选项，在这里可以选择运行游戏的renpy版本（Engine ver…）
+ - 详细信息中的renpy版本导入后会自动设置，若没有需自己点击设置
+2. 点击“启动游戏”游玩
+---
+### 其实各种工具导入差不多，不一一讲解
