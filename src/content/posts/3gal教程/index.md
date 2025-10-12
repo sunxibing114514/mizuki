@@ -49,7 +49,7 @@ licenseName: "Unlicensed"
 ---
 
 # Artemis引擎
-### 工具：Artroid+模拟器
+### 工具1：Artroid+模拟器
 ### 可以运行使用Artemis引擎制作的Galgame
 ### 注意：
 1. ios版artroid仅更新ver2.0，而安卓版已更新ver3.0，故ios版无法运行含emote的游戏
@@ -80,5 +80,8 @@ licenseName: "Unlicensed"
 3. 选择标题后后会出一览页，直接打开文章
 4. 文章的下方有下载链接，从那里下载
 5. 把下载的补丁内容全部放入游戏文件夹
+
+### 工具2:yurigame
+
 
 ---
