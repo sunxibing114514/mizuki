@@ -122,3 +122,13 @@ licenseName: "Unlicensed"
 ### 可以运行RPGMV、RPGMZ/H5、FLASH的游戏
 - 可在应用内点击添加可直接导入游戏文件夹，还可输入url下载swf格式的flash游戏并运行
 - 进入游戏后有两个按钮，在左上右上角。pad可以呼出控制界面，cheat可以作弊
+---
+### 推荐工具
+- 解压工具
+  - 解压专家
+- 文件管理工具
+  - (越狱或巨魔)filza
+  - (系统自带)文件
+  - (电脑)iTunes
+- 下载工具
+  - gopeed
