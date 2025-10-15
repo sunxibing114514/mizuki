@@ -30,9 +30,10 @@ licenseName: "Unlicensed"
 ### 使用方法：
 1. 移动文件夹后点击data.xp3或启动游戏.xp3等启动游戏
 ### 注意：
-- 该软件目前有ver1.0测试版与ver1.1、ver1.2、ver1.3正式版。
-  - 三个版本的游戏功能与列表功能均正常。
+- 该软件目前有ver1.0测试版与ver1.1、ver1.2、ver1.3、ver1.3.1正式版。
+  - 五个版本的游戏功能与列表功能均正常。
   - ver1.0导入功能正常。ver1.1设置、新建文件夹、导入闪退。ver1.2、ver1.3所有功能正常
+  - 1.3.1 修复了一些可能导致整个应用出错的问题。并且每次进入游戏清空原有配置文件并重新生成，保证每次进入都处于新安装状态，修复存档问题，增加游戏文件的识别，可识别文件为，开始游戏.xp3、启动游戏.xp3、运行游戏.xp3、data.xp3
 - 进入软件后显示的文件并非储存在该软件的数据中。我这里该模拟器的数据目录为/var/mobile/Containers/Data/Application/8A223672-D5E2-4184-81F1-27FD32D1BEB1，但其显示的数据目录却在/private/var/mobile/Containers/Data/PluginKitPlugin/85C784B7-CE23-4CEA-8DFC-F76A16953DF9/Documents
 
 
